@@ -1,0 +1,157 @@
+
+.pro{
+    text-decoration: underline;
+}
+
+
+.top-container
+{
+    display:block;
+    margin: 0;
+    padding-top:270px;
+    text-align: center;
+    padding-bottom: 320px;
+    color:  whitesmoke;
+   
+
+}
+
+h1{
+      font-family: "Caveat", cursive; 
+      font-size: 76px; 
+      margin: 0;
+      font-weight: 600;
+     
+  }
+
+  .sub1{
+    font-family: "EB Garamond", serif;
+    font-size: 38px;
+    color:rgb(53, 57, 90);
+    font-weight: normal;
+    margin: 0;
+   
+  }
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+
+
+}
+
+.my-img
+{
+    width: 150px;
+    height: 150px;
+    
+}
+
+
+.sub2
+{
+ color: rgb(14, 14, 15);
+ padding-bottom: 20px;
+ 
+ 
+}
+
+.para{
+    padding-top: 20px;
+    font-family: "EB Garamond", serif;
+}
+
+.hi{
+    font-size: 30px;
+    
+}
+
+
+.mid-container
+{
+    margin-bottom: 80px;
+}
+.featurette-heading {
+   text-align: justify;
+
+}
+
+h4{
+    text-align: justify;
+    font-size: 22px;
+    font-family: "EB Garamond", serif;
+}
+
+h3{
+    font-family: "EB Garamond", serif;
+    font-size: 35px;
+    
+}
+
+.sub3{
+   font-weight: bolder;
+   
+}
+.para1{
+    color: black;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.sub-para{
+    color: rgb(16, 15, 15);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.bottom{
+    padding-top: 60px;
+}
+
+.cont{
+   
+    padding-bottom: 20px;
+   
+
+}
+.c{
+    background-color: rgb(246, 222, 200);
+    padding-bottom: 20px;
+    margin-bottom: 0%;
+}
+
+.c1{
+    padding-top: 45px;
+}
+
+li{
+    list-style: none;
+    font-size: large;
+    text-align: justify;
+    font-weight: 500;
+}
+
+.last{
+    padding-top:35px;
+    margin-right:50px;
+    
+}
+h2{
+    padding-bottom: 5px;
+}
+
+
